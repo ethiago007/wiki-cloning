@@ -6,3 +6,6 @@
     margin-left: 200px;
     text-align: right;
 }
+span {
+    float: left;
+}
