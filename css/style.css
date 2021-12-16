@@ -12,3 +12,35 @@ span {
 .span {
     text-align: center;
 }
+footer {
+   color: maroon;
+    text-align: center;
+}
+.card3 {
+    text-align: center;
+    background-color: dimgrey;
+}
+h3 {
+    background-color: grey;
+}
+.shoe {
+    margin-left: 700px;
+}
+.slippers {
+    background-color: #F9F9F9;
+}
+.col-6 {
+    background-color: yellowgreen;
+}
+.siu {
+    background-color: aquamarine;
+}
+.card1 {
+    background-color: mediumpurple;
+}
+.card2 {
+    background-color: wheat;
+}
+.card4 {
+    background-color: wheat;
+}
